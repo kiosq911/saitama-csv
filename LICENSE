@@ -1,0 +1,136 @@
+saitama-csv 使用許諾条件
+saitama-csv License Agreement
+
+Copyright (c) 2026 kiosq911. All rights reserved.
+
+--------------------------------------------------------------------------------
+日本語
+--------------------------------------------------------------------------------
+
+本ソフトウェア（以下「本ソフト」）は、無償で利用できるフリーソフトウェアです。
+ソースコードは公開していません（プロプライエタリ・ソフトウェア）。
+
+本ソフトをダウンロード・使用した時点で、以下の条件に同意したものとみなします。
+
+■ 1. できること（自由に行ってよいこと）
+
+  1.1. 個人・法人を問わず、無償で自由に使用できます。
+       職場の PC や業務での利用も、許諾や連絡なしに自由に行えます。
+
+  1.2. 内容を改変しないかぎり、自由に再配布できます。
+       ソフトウェア紹介サイト（窓の杜・Vector 等）への収録や、
+       Web サイト・ブログでの配布も、連絡なしに行えます。
+
+  1.3. 本ソフトの紹介・レビュー・解説を自由に行えます。
+       ブログ記事、YouTube、Instagram、X（旧 Twitter）、TikTok などでの
+       紹介や実況、スクリーンショット・動画の掲載を歓迎します。
+       それらのコンテンツに広告が付いていても構いません。
+       事前の許諾も連絡も不要です。
+
+■ 2. できないこと（禁止事項）
+
+  2.1. 本ソフトそのものを販売すること、および有償で配布することを禁止します。
+       有料コンテンツ・有料サービスへの同梱も、これに含みます。
+       ※ 本ソフトを紹介するコンテンツから広告収入を得ることは、
+          2.1 の「販売」には当たりません（1.3 のとおり自由です）。
+
+  2.2. 本ソフトを改変したもの、または本ソフトの一部を組み込んだものを
+       配布することを禁止します。
+
+■ 3. 事前の相談が必要なこと
+
+  3.1. 雑誌・書籍の付録メディア（DVD-ROM 等）への収録など、
+       有償の媒体に収録する場合は、事前にご連絡ください。
+       媒体が有償であっても、本ソフト自体が無償で提供されるものであれば、
+       個別に許諾する場合があります。
+       連絡先: https://github.com/kiosq911/saitama-csv の Issues
+
+■ 4. 免責事項
+
+  4.1. 本ソフトは「現状のまま」提供されます。
+       明示・黙示を問わず、いかなる保証も行いません。
+
+  4.2. 本ソフトの使用または使用不能から生じたいかなる損害についても、
+       作者は一切の責任を負いません。
+       これには、データの消失・破損、業務の中断、逸失利益などを含みますが、
+       これらに限られません。
+
+  4.3. 本ソフトはファイルを読むソフトウェアですが、利用者が書き換えて
+       保存したときはファイルを書き込みます。
+       重要なデータは、必ず事前にバックアップを取ったうえでご利用ください。
+
+■ 5. その他
+
+  5.1. 本ソフトは通信を行いません。
+       開発者や第三者へ利用者の情報を収集・送信することはありません。
+
+  5.2. 本条件は予告なく変更されることがあります。
+       変更後の条件は、変更後に配布されるバージョンに適用されます。
+
+  5.3. 本ソフトには、第三者が作成したオープンソースソフトウェアが
+       含まれています。それらのライセンスについては、次の
+       THIRD_PARTY_LICENSES.txt をご確認ください。
+       https://github.com/kiosq911/saitama-csv/blob/main/docs/THIRD_PARTY_LICENSES.txt
+
+--------------------------------------------------------------------------------
+English (Reference Translation)
+--------------------------------------------------------------------------------
+
+This software ("the Software") is freeware. Its source code is not published
+(proprietary software). By downloading or using the Software, you agree to the
+following terms. In case of any discrepancy, the Japanese text above prevails.
+
+1. PERMITTED
+
+  1.1. Free of charge for any use, personal or commercial, including use on
+       company computers and for business purposes. No permission required.
+
+  1.2. Redistribution is permitted, provided the Software is not modified.
+       This includes listing on software directory sites and distribution
+       via websites or blogs. No notification required.
+
+  1.3. You may freely introduce, review, or explain the Software in blog posts,
+       YouTube, Instagram, X (Twitter), TikTok, and similar media, including
+       screenshots and video footage. Such content may carry advertising.
+       No permission or notification required.
+
+2. PROHIBITED
+
+  2.1. Selling the Software or distributing it for a fee, including bundling
+       it with paid content or paid services.
+       (Earning advertising revenue from content that introduces the Software
+        is NOT considered "selling" and is permitted under 1.3.)
+
+  2.2. Distributing modified versions of the Software, or any work
+       incorporating part of the Software.
+
+3. REQUIRES PRIOR CONSULTATION
+
+  3.1. Inclusion on paid media, such as magazine or book bundled discs.
+       Permission may be granted individually if the Software itself remains
+       free to the end user.
+       Contact: Issues at https://github.com/kiosq911/saitama-csv
+
+4. DISCLAIMER OF WARRANTY
+
+  4.1. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+       EXPRESS OR IMPLIED.
+
+  4.2. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DAMAGES ARISING FROM
+       THE USE OR INABILITY TO USE THE SOFTWARE, INCLUDING BUT NOT LIMITED TO
+       LOSS OF DATA, BUSINESS INTERRUPTION, OR LOST PROFITS.
+
+  4.3. The Software reads files, and writes them when you edit and save.
+       Always back up important data before use.
+
+5. MISCELLANEOUS
+
+  5.1. The Software performs no network communication. It does not collect
+       or transmit any user information to the author or any third party.
+
+  5.2. These terms may change without notice. Revised terms apply to versions
+       distributed after the revision.
+
+  5.3. The Software includes third-party open source components.
+       See THIRD_PARTY_LICENSES.txt for their licenses:
+       https://github.com/kiosq911/saitama-csv/blob/main/docs/THIRD_PARTY_LICENSES.txt
